@@ -1,0 +1,31 @@
+_repo: Taikaviitta_71541
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kivimäki, Urho
+    birthdate: 1889
+    deathdate: 1958
+    gutenberg_agent_id: '32243'
+    url: http://www.gutenberg.org/2009/agents/32243
+creator:
+  author:
+    agent_name: Mikszáth, Kálman
+    gutenberg_agent_id: '56275'
+    url: http://www.gutenberg.org/2009/agents/56275
+description: ''
+gutenberg_issued: '2023-09-01'
+identifiers:
+  gutenberg: '71541'
+language: fi
+pgterms:marc905: 20220727061625mikszth
+pgterms:marc906: '1917'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Taikaviitta
+url: http://www.gutenberg.org/ebooks/71541
