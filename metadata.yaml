@@ -7,12 +7,17 @@ contributor:
     deathdate: 1958
     gutenberg_agent_id: '32243'
     url: http://www.gutenberg.org/2009/agents/32243
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mikszáth, Kálman
     gutenberg_agent_id: '56275'
     url: http://www.gutenberg.org/2009/agents/56275
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71541#Taikaviitta
 gutenberg_issued: '2023-09-01'
 identifiers:
   gutenberg: '71541'
